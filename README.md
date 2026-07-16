@@ -2,7 +2,7 @@
 
 Portal profissional de Felippe Ramos, Ph.D. — consultor sênior de estratégia política e análise de risco, com foco na América Latina e no Caribe.
 
-🔗 Site: https://SEU-USUARIO.github.io
+🔗 Site: https://FR-AnaliseEstrategica.github.io
 
 ## Conteúdo
 - `index.html` — portal completo em português, inglês e espanhol (arquivo único, sem dependências externas)
